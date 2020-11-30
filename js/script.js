@@ -11,10 +11,6 @@ while (true) {
     userNum = prompt('Введите число от 0 до 100');
     if (userNum === null) break;
 
-    if()
-    
-    alert('Игра окончена')
-
     if (isNum(userNum)) {
         userNum = +userNum;
 
